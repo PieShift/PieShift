@@ -5,4 +5,4 @@
 
 <br/>
 
-  ![Snake animation](https://github.com/pieshift/pieshift/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/PieShift/PieShift/blob/output/github-contribution-grid-snake.svg)
